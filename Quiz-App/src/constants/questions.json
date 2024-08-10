@@ -1,0 +1,101 @@
+[
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "answerOptions": [
+      { "text": "Saturn", "isCorrect": false },
+      { "text": "Mars", "isCorrect": false },
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Jupiter", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What is the capital of France?",
+    "answerOptions": [
+      { "text": "Berlin", "isCorrect": false },
+      { "text": "Madrid", "isCorrect": false },
+      { "text": "Rome", "isCorrect": false },
+      { "text": "Paris", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "answerOptions": [
+      { "text": "Gold", "isCorrect": false },
+      { "text": "Oxygen", "isCorrect": true },
+      { "text": "Silver", "isCorrect": false },
+      { "text": "Iron", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "answerOptions": [
+      { "text": "5", "isCorrect": false },
+      { "text": "6", "isCorrect": false },
+      { "text": "7", "isCorrect": true },
+      { "text": "8", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "answerOptions": [
+      { "text": "Elephant", "isCorrect": false },
+      { "text": "Blue Whale", "isCorrect": true },
+      { "text": "Giraffe", "isCorrect": false },
+      { "text": "Polar Bear", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answerOptions": [
+      { "text": "Mercury", "isCorrect": false },
+      { "text": "Mars", "isCorrect": true },
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Jupiter", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answerOptions": [
+      { "text": "William Shakespeare", "isCorrect": true },
+      { "text": "Charles Dickens", "isCorrect": false },
+      { "text": "Jane Austen", "isCorrect": false },
+      { "text": "Mark Twain", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answerOptions": [
+      { "text": "1", "isCorrect": false },
+      { "text": "2", "isCorrect": true },
+      { "text": "3", "isCorrect": false },
+      { "text": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "answerOptions": [
+      { "text": "50°C", "isCorrect": false },
+      { "text": "75°C", "isCorrect": false },
+      { "text": "90°C", "isCorrect": false },
+      { "text": "100°C", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answerOptions": [
+      { "text": "Vincent van Gogh", "isCorrect": false },
+      { "text": "Leonardo da Vinci", "isCorrect": true },
+      { "text": "Pablo Picasso", "isCorrect": false },
+      { "text": "Claude Monet", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which gas do plants primarily absorb from the atmosphere?",
+    "answerOptions": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Carbon Dioxide", "isCorrect": true },
+      { "text": "Hydrogen", "isCorrect": false }
+    ]
+  }
+]
