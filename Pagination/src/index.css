@@ -21,9 +21,10 @@ img{
   padding: 20px;
   margin: 30px;
   background: 20px;
-  background-color: rgb(168, 169, 169);
+  box-shadow:  28px 28px 66px #b3b3b3,
+             -28px -28px 66px #ffffff;
+  border-radius: 50px;
   text-align: center;
-  border-radius: 5px;
   cursor: pointer;
   display: flex;
   flex-direction: column;
